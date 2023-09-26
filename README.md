@@ -1,8 +1,4 @@
-# Trabalho Final: Técnicas de programação I 💻
-
-Alunos: Airel Ribeiro E Silva | David Dos Santos Gonzalez | Juan Daniel Da Silva Campos Ferreira Campos | Rafael De Castro Gomes
-
-## Distribuição de Materiais Didáticos no Rio de Janeiro 🇧🇷
+# Distribuição de Materiais Didáticos no Rio de Janeiro 🇧🇷
 
 Este projeto visa realizar tratamentos nos dados e otimizar a distribuição de materiais didáticos nas escolas da cidade do Rio de Janeiro.
 
